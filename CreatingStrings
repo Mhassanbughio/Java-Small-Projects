@@ -10,7 +10,7 @@ package strings;
  * @author Ahsan Qadeer
  */
 public class CreatingString {
-
+     System.out.println("================String Example by Ahsan Qadeer======================");
     // ch and ahsan are same
     char ch[]={'a','h','s','a','n'};
     String name="ahsan";// this is called string literal
